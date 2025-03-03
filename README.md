@@ -1,4 +1,4 @@
-# Lane Detection System using CAN (Lane Assistance)
+# Lane Detection System using CNN (Lane Assistance)
 
 ## 📌 Abstract
 In today’s fast-moving world, vehicles are essential for daily life, but this also increases the risk of accidents. Autonomous driving functions are becoming more prevalent to enhance safety. This project utilizes **Convolutional Neural Networks (CNN)** and **Fuzzy Logic** to extract key features from road images and predict lane positions. The lane detection system is improved using a dual model based on instance segmentation, leveraging **Keras** and **TensorFlow** for deep learning-based lane detection. This system is designed for **real-time implementation**, ensuring quick response and accuracy.
