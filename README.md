@@ -96,5 +96,5 @@ Pull requests are welcome! If you'd like to contribute, please fork the repo and
 
 ## 📩 Contact
 For any queries, reach out via:
-- **Email:** prathameshnalage123@gmail.com
-- **GitHub:** [PrathameshNalage](https://github.com/PrathameshNalage)
+- **Email:** yadav.d.kshitij2003@gmail.com
+- **GitHub:** [Kshitij Dev](https://github.com/Caliber619)
